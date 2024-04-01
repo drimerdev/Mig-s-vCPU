@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/drimerdev/Mig-s-vCPU/issues"
   },
-  "homepage": "https://github.com/drimerdev/Mig-s-vCPU#readme"
+  "homepage": "https://github.com/drimerdev/Mig-s-vCPU#readme",
+  "dependencies": {
+    "commander": "^12.0.0"
+  }
 }
