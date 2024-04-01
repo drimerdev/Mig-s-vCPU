@@ -1,0 +1,22 @@
+{
+  "name": "mig-vcpu",
+  "version": "0.0.1",
+  "description": "an virtual cpu made in node",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drimerdev/Mig-s-vCPU.git"
+  },
+  "keywords": [
+    "cpu"
+  ],
+  "author": "Miguel V.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drimerdev/Mig-s-vCPU/issues"
+  },
+  "homepage": "https://github.com/drimerdev/Mig-s-vCPU#readme"
+}
