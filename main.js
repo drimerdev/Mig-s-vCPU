@@ -9,8 +9,20 @@ var clock
 var cpu
 var emu
 var initalize
+var hex
+var run
+var num
+var exec
+var bin
 
 const clock = x
+const hex = num
+
+// binary
+function _bin() {
+	if(hex = 0)
+	if(hex = 1);
+}
 
 function _init() {
     // initial cpu set
@@ -22,14 +34,4 @@ function _conf() {
 
 function _emu() {
     // cpu emulation manager
-	const { program } = require('commander);
-	program
-	 .name('Miguel´s vCPU manager')
-	 .version('0.0.1')
-
-	// start cpu command
-	program.command('start')
-	.description('Start vCPU emulation manager')
-
-	program.parse();
 }
