@@ -17,7 +17,7 @@ var bin
 
 const clock = x
 const hex = num
-const { app } = require("./src/program.js")
+const { app } = require("./src/program.js");
 
 
 // binary
