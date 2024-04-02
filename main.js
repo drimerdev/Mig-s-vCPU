@@ -5,19 +5,13 @@
 // CPU(s) => null
 
 var usr
-var clock
 var cpu
 var emu
 var initalize
-var hex
 var run
 var num
 var exec
 var bin
-
-const clock = x
-const hex = num
-const { app } = require("./src/program.js");
 
 
 // binary
@@ -28,6 +22,13 @@ function _bin() {
 
 function _init() {
     // initial cpu set
+if(hex = ('0')) {
+        console.log('hex 0')
+}
+
+if(hex = ('1')) {
+        console.log('hex 1')
+}
 };
 
 function _conf() {
