@@ -22,13 +22,13 @@ function _bin() {
 
 function _init() {
     // initial cpu set
-if(hex = ('0')) {
+     if(hex = ('0')) {
         console.log('hex 0')
-}
+    }
 
-if(hex = ('1')) {
+      if(hex = ('1')) {
         console.log('hex 1')
-}
+  }
 };
 
 function _conf() {
@@ -37,4 +37,5 @@ function _conf() {
 
 function _emu() {
     // cpu emulation manager
+     var term = require('./bin/term.js');
 }

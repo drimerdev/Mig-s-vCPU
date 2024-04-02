@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/drimerdev/Mig-s-vCPU#readme",
   "dependencies": {
-    "commander": "^12.0.0"
+    "commander": "^12.0.0",
+    "shelljs": "^0.8.5"
   }
 }
